@@ -5,3 +5,6 @@ b-f)
 Done.
 
 g)
+Done.
+Added the following repository as a remote:
+https://github.com/eriksson-benjamin/day1_exercise2
