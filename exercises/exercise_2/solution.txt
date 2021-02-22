@@ -1,0 +1,7 @@
+a)
+Configured my local environment by setting user name, email and notepad++ to preferred editor.
+
+b-f)
+Done.
+
+g)
