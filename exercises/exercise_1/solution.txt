@@ -1,0 +1,19 @@
+a-e)
+Tested all commands and executed script.
+
+f-g)
+Made script executable using
+chmod +x hello_world_benjamin.py
+and can run it using ./hello_world_benjamin.py
+
+h-i)
+Logged into cluster.
+Added my loca public key to the remote system (I can see my user in authorized_keys)
+
+j)
+Copied hello_world_benjamin.py to Davinci using the scp command. Put it in a directory called benjamin.
+Executed it.
+
+k)
+Tested the screen tool by adding 100 seconds sleep time to the hello_world_benjamin.py script.
+
